@@ -1,0 +1,5 @@
+{
+  "name": "Multimodal AI Use Case Brainstormer",
+  "description": "An application to brainstorm innovative use cases for various generative and multimodal AI capabilities. Select a modality, adjust the creativity level, and let the AI generate a detailed use case, example prompt, and key benefits.",
+  "requestFramePermissions": []
+}
